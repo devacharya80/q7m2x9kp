@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+.ruff_cache/
+
+# Environment variables
+.env
+.env.*
+
+# Node
+node_modules/
+dist/
+
+# Editors and operating systems
+.vscode/
+.DS_Store
+Thumbs.db
